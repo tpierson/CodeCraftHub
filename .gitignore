@@ -1,0 +1,30 @@
+# Node.js dependencies
+/node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+logs/
+*.log
+
+# Environment variables file
+.env
+
+# Optional: OS files
+.DS_Store
+Thumbs.db
+
+# Optional: Editor/IDE files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Optional: Debugger files
+*.tgz
+
+# Optional: coverage directory for tests
+coverage/
